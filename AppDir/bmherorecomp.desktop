@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Bomberman Hero Recompiled
-Exec=BMHeroRecompiled
-Type=Application
-Icon=app
-StartupWMClass=BMHeroRecompiled
-Categories=Game;
-Comment=Static recompilation of Bomberman Hero for PC.
-MimeType=x-scheme-handler/bmherorecomp
